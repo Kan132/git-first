@@ -2,6 +2,4 @@ Hello World!!
 BUG 1 :- fix the problem. kk 1
 bug 2: fix prob. kk 2
 change 3 :-WI3 for rebase
-
-
-
+change 6 :- for WI5 on local master to push the changes to remote rep
